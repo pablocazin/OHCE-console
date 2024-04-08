@@ -1,0 +1,22 @@
+[
+    {
+        "name": "English",
+        "greeting_morning": "Good morning !",
+        "greeting_evening": "Good evening !",
+        "goodbye": "Goodbye",
+        "palindrome_response": "Well said!",
+        "enter_text_prompt": "Enter a text (or 'exit' to quit): ",
+        "exit_word": "exit",
+        "mirrored_text": "Mirrored text"
+    },
+    {
+        "name": "French",
+        "greeting_morning": "Bonjour !",
+        "greeting_evening": "Bonsoir !",
+        "goodbye": "Au revoir",
+        "palindrome_response": "Bien dit !",
+        "enter_text_prompt": "Entrer un text (ou 'quitter' pour quitter): ",
+        "exit_word": "quitter",
+        "mirrored_text": "Text inversé"
+    }
+]
